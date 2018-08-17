@@ -22,12 +22,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 60px;
-    font-size: 40px;
+    height: 1em;
+    font-size: 2em;
     font-weight: bold;
     color: orange;
-    font-size: 40px;
-    margin-right: 500px;
+    /* margin-right: 500px; */
 
     /* background: #27ae60; */
     /* border-radius: 10px 10px 0 0; */
@@ -43,16 +42,16 @@
 
 
 #card-form-in{
-	/* display: inline-block; */
-	/* position:fixed; */
+
+
 /* left: 10%; */
   /* right: 70%; */
-	left: 5%;
-	margin-top: 200px;
+	right: 18%;
+	margin-top: 2em;
 	/* margin-left: -26%; */
-	width: 1000px;
-  height: 650px;
-	border-radius: 10px;
+	width: 30em;
+  height: 20em;
+	border-radius: 1em;
 	background: white;
 	box-shadow: 0 27px 55px 0 rgba(0, 0, 0, 0.3), 0 17px 17px 0 rgba(0, 0, 0, 0.15);
 	/* vertical-align: middle; */
@@ -88,22 +87,22 @@ input[type=checkbox] {
 #row {
 	display: flex;
 	justify-content: space-around;
-	padding: 4px;
+
 }
 
 
 #input{
 	appearance: none;
 	width: 100%;
-	margin: 0 15px;
-	height: 40px;
-	padding: 5px 10px;
-	border-radius: 3px;
+	margin: 0 5em;
+	height: 1em;
+	padding: 1em 2em;
+	border-radius: 1em;
 	outline: none;
 	border: none;
 	background: #e8ebed;
 	color: #576366;
-	font-size: 40px;
+	font-size: 5em;
 }
 
 #check-boxes {
@@ -113,18 +112,3 @@ input[type=checkbox] {
 
 
 
-
-/*
-        #movingLinks{
-
-          position:fixed;
-          left: 44.5%;
-
-        } */
-
-
-        /* #movingLinkstwo{ */
-
-          /* position:fixed;
-          left: 51.5%; */
-        /* } */
