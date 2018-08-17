@@ -30,3 +30,5 @@ Why Cocktail Party over other apps that do pretty much the same?
 - It’s community based and gives you more control on who you want to book. Our bartenders are chosen peer-to-peer from a user rating scale. 
 - You don’t need to input credit card info to view the bartenders in your area, only to make requests.
 - You don’t need to be fancy and have a strong knowledge to make drinks. You just need to have a pleasing personality and make people feel welcomed.
+# To start
+rails s
